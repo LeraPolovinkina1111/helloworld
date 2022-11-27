@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\leczia\helloconsol\bin\Debug\net6.0\helloconsol.exe
+C:\Users\Александр\Desktop\leczia\helloconsol\bin\Debug\net6.0\helloconsol.deps.json
+C:\Users\Александр\Desktop\leczia\helloconsol\bin\Debug\net6.0\helloconsol.runtimeconfig.json
+C:\Users\Александр\Desktop\leczia\helloconsol\bin\Debug\net6.0\helloconsol.dll
+C:\Users\Александр\Desktop\leczia\helloconsol\bin\Debug\net6.0\helloconsol.pdb
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.AssemblyInfo.cs
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.dll
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\refint\helloconsol.dll
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.pdb
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\helloconsol.genruntimeconfig.cache
+C:\Users\Александр\Desktop\leczia\helloconsol\obj\Debug\net6.0\ref\helloconsol.dll
